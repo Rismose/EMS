@@ -1,0 +1,16 @@
+
+name: EMS
+version: ${project.version}
+main: me.rismose.ems.EMS
+api-version: 1.16
+authors: [ Rismose ]
+description: Essential Mob Spawner
+commands:
+  ems:
+    description: Main EMS Command
+    usage: /<command>
+    aliases:
+      - mobmenu
+      - mobs
+      - mob
+      - emsmenu

@@ -1,0 +1,15 @@
+# # # # # # # # # #
+# EMS config.yml  #
+# # # # # # # # # #
+ZombieNormalSpawn: '&eNormal Zombie Has Been Spawned!'
+ZombieHelmetSpawn: '&eHelmet Zombie Has Been Spawned!'
+ZombieChestSpawn: '&eChestplate Zombie Has Been Spawned!'
+ZombieLeggingSpawn: '&eLeggings Zombie Has Been Spawned!'
+ZombieBootSpawn: '&eBoots Zombie Has Been Spawned!'
+Permission: '&cYou do not have permission do execute this command!'
+NonPlayer: '&cYou have to be an in-game user to execute this command!'
+#
+# VERSION # # # # # # #
+Version: '${project.version}'#
+# ! DO NOT CHANGE ! # #
+# # # # # # # # # # #
